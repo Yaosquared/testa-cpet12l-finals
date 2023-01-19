@@ -44,7 +44,7 @@
   height: 40px;
 }
 
-@media all and (max-width:500px) {
+@media all and (max-width:480px) {
   .container h2 {
     margin-left: 80px;
   }
