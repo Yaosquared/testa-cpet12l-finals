@@ -4,3 +4,10 @@
   padding: 2%;
   color: #FFFFFF;
 }
+
+@media all and (max-width:480px) {
+  .container {
+    display: flex;
+    width: 480px;
+  }
+}
